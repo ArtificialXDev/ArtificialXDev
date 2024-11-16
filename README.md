@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm ArtificialXDev
+# Hi  Folks! <img src="https://raw.githubusercontent.com/ArtificialXDev/ArtificialXDev/master/wave.gif" width="30px" height="30px" /> I'm ArtificialXDev
 A passionate Web developer from Pakistan
 
 # AritificialXDev
