@@ -4,9 +4,9 @@ A passionate Web developer from Pakistan
 
 # AritificialXDev
 
-🌱 I’m currently learning **Python**
+🌱 I’m currently learning **C#**
 
-📫 How to reach me mailto:pinepatelllc@gmail.com
+📫 How to reach me [ClickMe](mailto:pinepatelllc@gmail.com)
 
 ⚡ Fun fact I love to learn all about programming technology
 # My Skills:
