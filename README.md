@@ -18,3 +18,8 @@ A passionate Web developer from Pakistan
 # Apps I Have Used:
 [![Apps I have Used:](https://skillicons.dev/icons?i=wordpress,windows,vscode,vercel,unity,twitter,sublime,robloxstudio,replit,rider,pycharm,powershell,ps,gmail,github,git,gamemakerstudio,discord,atom,androidstudio,anaconda)](https://skillicons.dev)
 
+# Github Stats:
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtificialXDev&theme=dark" />
+<a href="https://github.com/ArtificialXDev/ArtificialXDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArtificialXDev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Artificial's Stats" />
+</a>
