@@ -10,10 +10,10 @@ A passionate Web developer from Pakistan
 
 ⚡ Fun fact I love to learn all about programming technology
 # My Skills:
-[![My Skills:](https://skillicons.dev/icons?i=js,html,css,py,nodejs,lua,tailwind,svelte,npm,pnpm,nextjs,netlify,materialui,md,flask,firebase,express,django,discordjs,appwrite,cs,dotnet,cpp,kotlin)](https://skillicons.dev)
+[![My Skills:](https://skillicons.dev/icons?i=js,html,css,py,nodejs,tailwind,npm,pnpm,nextjs,netlify,md,flask,firebase,express,django,discordjs,appwrite,cs,dotnet,cpp,kotlin)](https://skillicons.dev)
 
 # Databases I Have Used:
-[![Databases:](https://skillicons.dev/icons?i=mongodb,firebase,appwrite,mysql,sqlite,supabase)](https://skillicons.dev)
+[![Databases:](https://skillicons.dev/icons?i=mongodb,firebase,appwrite,supabase)](https://skillicons.dev)
 
 # Apps I Have Used:
 [![Apps I have Used:](https://skillicons.dev/icons?i=wordpress,windows,vscode,vercel,unity,twitter,sublime,robloxstudio,replit,rider,pycharm,powershell,ps,gmail,github,git,gamemakerstudio,discord,atom,androidstudio,anaconda)](https://skillicons.dev)
