@@ -4,8 +4,8 @@ A passionate Web developer from Pakistan
 
 # AritificialXDev
 
-🌱 I’m currently learning **C++** & **Kotlin** 
-
+🌱 I’m currently learning **C++** & **C3**
+ & **V**
 📫 How to reach me [ClickMe](mailto:pinepatelllc@gmail.com)
 
 ⚡ Fun fact I love to learn all about programming technology
